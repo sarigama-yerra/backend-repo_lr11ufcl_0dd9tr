@@ -1,15 +1,15 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [295] using StatReload
-INFO:     Started server process [297]
+INFO:     Started reloader process [339] using StatReload
+INFO:     Started server process [341]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:43346 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:43358 - "GET /api/expenses?month=2025-11 HTTP/1.1" 200 OK
-INFO:     172.20.0.1:43368 - "GET /api/summary?month=2025-11 HTTP/1.1" 200 OK
-INFO:     172.20.0.1:43358 - "GET /api/expenses?month=2025-11 HTTP/1.1" 200 OK
-INFO:     172.20.0.1:43368 - "GET /api/summary?month=2025-11 HTTP/1.1" 200 OK
-INFO:     172.20.0.1:35302 - "GET /api/expenses?month=2025-11 HTTP/1.1" 200 OK
-INFO:     172.20.0.1:35312 - "GET /api/summary?month=2025-11 HTTP/1.1" 200 OK
-INFO:     172.20.0.1:35302 - "GET /api/expenses?month=2025-11 HTTP/1.1" 200 OK
-INFO:     172.20.0.1:35312 - "GET /api/summary?month=2025-11 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58952 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:60852 - "GET /api/expenses?month=2025-11 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60858 - "GET /api/summary?month=2025-11 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60862 - "GET /api/expenses?month=2025-11 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60858 - "GET /api/summary?month=2025-11 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55028 - "GET /api/expenses?month=2025-11 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55040 - "GET /api/summary?month=2025-11 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55028 - "GET /api/expenses?month=2025-11 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55040 - "GET /api/summary?month=2025-11 HTTP/1.1" 200 OK
